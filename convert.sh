@@ -9,6 +9,7 @@ inkscape astropy_logo_linkout.svg --export-png=generated/astropy_logo_linkout.pn
 inkscape astropy_logo_docs.svg --export-png=generated/astropy_logo_docs.png
 inkscape astropy_logo_small.svg --export-png=generated/astropy_logo_small.png
 inkscape astropy_logo_word.svg --export-png=generated/astropy_logo_word.png
+inkscape dmg_background.svg --export-dpi=72 --export-png=generated/dmg_background.png
 
 # Convert form Inkscape SVG to Plain SVG (for web use)
 inkscape astropy_logo.svg --export-plain-svg=generated/astropy_logo_plain.svg
