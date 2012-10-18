@@ -21,10 +21,16 @@ inkscape astropy_logo_word.svg --export-plain-svg=generated/astropy_logo_word_pl
 convert -intent Saturation -colorspace sRGB -filter Lanczos -resize 1000x96 -trim generated/astropy_logo.png generated/astropy_banner_96.png
 convert -colorspace sRGB -filter Box -resize 1000x31 -trim generated/astropy_logo_docs.png generated/astropy_docs_32.png
 convert -colorspace sRGB -filter Box -resize 1000x20 -trim generated/astropy_logo_linkout.png generated/astropy_linkout_20.png
-convert -colorspace sRGB -filter Box -resize 1000x32 -trim generated/astropy_logo_word.png generated/astropy_word_32.png
+convert -colorspace sRGB -filter Box -resize 1000x32 -trim generated/astropy_logo_word.png generated/astropy_word_32_tmp.png
+convert -background transparent -extent 91x32 generated/astropy_word_32_tmp.png generated/astropy_word_32_tmp1.png
+convert -background transparent -splice 0x5 generated/astropy_word_32_tmp1.png generated/astropy_word_32_tmp2.png
+convert -background transparent -gravity south -splice 0x4 generated/astropy_word_32_tmp2.png generated/astropy_word_32.png
 
 # Remove full-res PNGs since these aren't needed
 rm generated/astropy_logo.png
 rm generated/astropy_logo_docs.png
 rm generated/astropy_logo_linkout.png
 rm generated/astropy_logo_word.png
+rm generated/astropy_word_32_tmp1.png
+rm generated/astropy_word_32_tmp2.png
+
