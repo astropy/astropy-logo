@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="771.12372"
+   height="167.52676"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3804">
+      <stop
+         id="stop3806"
+         style="stop-color:#ffa900;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3808"
+         style="stop-color:#fd0000;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5252">
+      <stop
+         id="stop5254"
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3767">
+      <stop
+         id="stop3800"
+         style="stop-color:#ffa900;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3775"
+         style="stop-color:#fd0000;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3934" />
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3014">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur3016" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="10"
+         diffuseConstant="1"
+         id="feDiffuseLighting3018">
+        <feDistantLight
+           azimuth="235"
+           elevation="25"
+           id="feDistantLight3020" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1"
+         k2="0"
+         k3="0.6"
+         k4="0"
+         in="result5"
+         result="result4"
+         id="feComposite3022" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3844">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur3846" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="10"
+         diffuseConstant="1"
+         id="feDiffuseLighting3848">
+        <feDistantLight
+           azimuth="235"
+           elevation="25"
+           id="feDistantLight3850" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1"
+         k2="0"
+         k3="0.6"
+         k4="0"
+         in="result5"
+         result="result4"
+         id="feComposite3852" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(6.1070519,22.476169)"
+     id="layer1">
+    <text
+       x="-4.1070557"
+       y="98.193459"
+       id="text3047"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ayuthaya;-inkscape-font-specification:Ayuthaya"><tspan
+         x="-4.1070557"
+         y="98.193459"
+         id="tspan3049"
+         style="font-size:185px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Semi-Bold"><tspan
+           id="tspan3821"
+           style="fill:#ffffff">astro</tspan><tspan
+           id="tspan3051"
+           style="font-size:185px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff5000;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Light">py</tspan></tspan></text>
+    <flowRoot
+       transform="translate(-2.5547457,-54.766869)"
+       id="flowRoot3781"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3783"><rect
+           width="565.68542"
+           height="52.527931"
+           x="237.38585"
+           y="157.37054"
+           id="rect3785" /></flowRegion><flowPara
+         id="flowPara3787"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Community</flowPara></flowRoot>    <path
+       d="m 699.71522,8.7813958 c -71.7644,0 -58.16693,0 -58.16693,0 l 0.18886,86.0270502 0,0 89.32779,0 0.37769,-47.195398"
+       inkscape:connector-curvature="0"
+       id="path3796"
+       style="fill:none;stroke:#ffffff;stroke-width:7.42324734;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="M 690.16624,51.085891 C 750.77539,-8.008031 750.77539,-8.008031 750.77539,-8.008031"
+       inkscape:connector-curvature="0"
+       id="path3798"
+       style="fill:none;stroke:#ffffff;stroke-width:10.39999962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="M 760.01669,-15.838298 717.15954,-2.7141323 744.40571,24.161702 z"
+       inkscape:connector-curvature="0"
+       id="path3800"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

@@ -19,3 +19,8 @@ inkscape astropy_logo_small.svg --export-plain-svg=generated/astropy_logo_small_
 convert -intent Saturation -colorspace sRGB -filter Lanczos -resize 1000x96 -trim generated/astropy_logo.png generated/astropy_banner_96.png
 convert -colorspace sRGB -filter Box -resize 1000x31 -trim generated/astropy_logo_docs.png generated/astropy_docs_32.png
 convert -colorspace sRGB -filter Box -resize 1000x20 -trim generated/astropy_logo_linkout.png generated/astropy_linkout_20.png
+
+# Remove full-res PNGs since these aren't needed
+rm generated/astropy_logo.png
+rm generated/astropy_logo_docs.png
+rm generated/astropy_logo_linkout.png
