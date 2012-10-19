@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="1200"
+   height="220"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3804">
+      <stop
+         id="stop3806"
+         style="stop-color:#ffa900;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3808"
+         style="stop-color:#fd0000;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5252">
+      <stop
+         id="stop5254"
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3767">
+      <stop
+         id="stop3800"
+         style="stop-color:#ffa900;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3775"
+         style="stop-color:#fd0000;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3934" />
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3014">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur3016" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="10"
+         diffuseConstant="1"
+         id="feDiffuseLighting3018">
+        <feDistantLight
+           azimuth="235"
+           elevation="25"
+           id="feDistantLight3020" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1"
+         k2="0"
+         k3="0.6"
+         k4="0"
+         in="result5"
+         result="result4"
+         id="feComposite3022" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3844">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur3846" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="10"
+         diffuseConstant="1"
+         id="feDiffuseLighting3848">
+        <feDistantLight
+           azimuth="235"
+           elevation="25"
+           id="feDistantLight3850" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1"
+         k2="0"
+         k3="0.6"
+         k4="0"
+         in="result5"
+         result="result4"
+         id="feComposite3852" />
+    </filter>
+    <linearGradient
+       x1="195.5511"
+       y1="163.12114"
+       x2="83.651718"
+       y2="298.258"
+       id="linearGradient3798"
+       xlink:href="#linearGradient3767"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="repeat" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(2.5547457,54.766869)"
+     id="layer1">
+    <text
+       x="227.80064"
+       y="97.573219"
+       id="text3792"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ayuthaya;-inkscape-font-specification:Ayuthaya"><tspan
+         x="227.80064"
+         y="97.573219"
+         id="tspan3794"
+         style="font-size:185px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Semi-Bold"><tspan
+           id="tspan3798"
+           style="fill:#ffffff">astro</tspan><tspan
+           id="tspan3796"
+           style="font-size:185px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff5000;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro">py</tspan></tspan></text>
+    <path
+       d="m 221.23922,233.12846 a 80.322945,68.372307 0 1 1 -160.64589,0 80.322945,68.372307 0 1 1 160.64589,0 z"
+       transform="matrix(1.0651076,-0.90408718,0.89013474,1.0731629,-250.16148,-67.548145)"
+       id="path3837"
+       style="fill:url(#linearGradient3798);fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 238.396,198.78328 c 32.61949,7.06756 15.40308,37.20961 -8.24653,38.06088 -26.00022,0.93589 -44.08994,-24.61831 -41.97511,-48.94224 2.67817,-30.80329 32.53302,-51.80129 62.38812,-48.26147"
+       transform="matrix(-0.71212781,-0.99456325,-0.9777811,0.72852659,474.31246,145.67479)"
+       id="path5413"
+       style="fill:none;stroke:#ffffff;stroke-width:14.33045673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 144.4518,337.67926 a 22.223356,12.626906 0 1 1 -44.44671,0 22.223356,12.626906 0 1 1 44.44671,0 z"
+       transform="matrix(1.0512298,0.82294962,-0.97239782,0.94168108,304.90482,-361.44933)"
+       id="path3819"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       d="m 136.88413,-13.10567 13.09858,22.1959915 20.1541,-20.0243955 -25.57713,-10.690029 z"
+       inkscape:connector-curvature="0"
+       id="path3853"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.36031604;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <g
+       transform="matrix(0.95039189,0,0,0.93299787,-2.487134,-0.56516029)"
+       id="g3804">
+      <path
+         d="m 142.07904,-24.83606 -2.29208,-13.70422 0.18559,0.452199 0,0"
+         inkscape:connector-curvature="0"
+         id="path3855-7"
+         style="fill:none;stroke:#ffffff;stroke-width:3.72635746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         d="m 127.81295,-26.11257 15.12343,0.663566 -0.4755,0.06597 0,0"
+         inkscape:connector-curvature="0"
+         id="path3855-7-0"
+         style="fill:none;stroke:#ffffff;stroke-width:4.02542162;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         d="m 150.77669,-18.240009 -9.57586,-7.57806 0.46343,0.302121 0,0"
+         inkscape:connector-curvature="0"
+         id="path3855-7-05"
+         style="fill:none;stroke:#ffffff;stroke-width:4.06302309;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       d="m 67.476992,131.73602 c 3.410653,2.96251 14.804165,7.71706 18.766169,12.74152 4.041356,5.12504 3.407665,10.98393 3.371624,14.32634"
+       inkscape:connector-curvature="0"
+       id="path3942"
+       style="fill:none;stroke:#ffffff;stroke-width:17.45736313;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 238.396,198.78328 c 32.61946,7.06755 15.40307,37.20957 -8.24652,38.06085 -26.0002,0.93588 -44.0899,-24.61829 -41.97507,-48.9422 2.70006,-31.05511 32.97695,-52.07076 63.01891,-48.18321 1.11735,0.14459 2.2306,0.32088 3.33799,0.52843"
+       transform="matrix(0.95949998,0.82835015,0.79893463,-0.95307413,-285.3304,56.888018)"
+       id="path2987-5"
+       style="fill:none;stroke:#ffffff;stroke-width:13.93870544;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <flowRoot
+       transform="translate(-2.5547457,-54.766869)"
+       id="flowRoot3781"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3783"><rect
+           width="565.68542"
+           height="52.527931"
+           x="237.38585"
+           y="157.37054"
+           id="rect3785" /></flowRegion><flowPara
+         id="flowPara3787"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro">Community</flowPara></flowRoot>  </g>
+</svg>
