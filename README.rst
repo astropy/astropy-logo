@@ -26,3 +26,6 @@ size/padding for the website and docs. Once you've edited the main files, you
 can re-generate the Plain SVG and PNG files with:
 
     ./convert.sh
+
+Note that this requires the the ImageMagick command ``convert`` and
+InkScape (with the command-line ``inkscape`` command) to be installed.
