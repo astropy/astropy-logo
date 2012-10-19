@@ -10,6 +10,7 @@ inkscape astropy_logo_docs.svg --export-png=generated/astropy_logo_docs.png
 inkscape astropy_logo_small.svg --export-png=generated/astropy_logo_small.png
 inkscape astropy_logo_word.svg --export-png=generated/astropy_logo_word.png
 inkscape dmg_background.svg --export-dpi=72 --export-png=generated/dmg_background.png
+inkscape astropy_logo_notext.svg --export-png=generated/astropy_logo_notext.png
 
 # Convert form Inkscape SVG to Plain SVG (for web use)
 inkscape astropy_logo.svg --export-plain-svg=generated/astropy_logo_plain.svg
@@ -26,6 +27,7 @@ convert -colorspace sRGB -filter Box -resize 1000x32 -trim generated/astropy_log
 convert -background transparent -extent 91x32 generated/astropy_word_32_tmp.png generated/astropy_word_32_tmp1.png
 convert -background transparent -splice 0x5 generated/astropy_word_32_tmp1.png generated/astropy_word_32_tmp2.png
 convert -background transparent -gravity south -splice 0x4 generated/astropy_word_32_tmp2.png generated/astropy_word_32.png
+convert -filter Lanczos -resize 16x16 -trim generated/astropy_logo_notext.png generated/astropy_logo.ico
 
 # Remove full-res PNGs since these aren't needed
 rm generated/astropy_logo.png
@@ -34,4 +36,4 @@ rm generated/astropy_logo_linkout.png
 rm generated/astropy_logo_word.png
 rm generated/astropy_word_32_tmp1.png
 rm generated/astropy_word_32_tmp2.png
-
+rm generated/astropy_logo_notext.png
