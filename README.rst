@@ -10,6 +10,11 @@ will need to ensure that this font is installed. For convenience, the
 font files are included in this repository in the ``Source_Sans_Pro`` 
 directory.
 
+The fonts are also available online:
+
+* https://github.com/adobe/Source-Sans-Pro
+* http://www.google.com/webfonts/specimen/Source+Sans+Pro
+
 Editing
 -------
 
