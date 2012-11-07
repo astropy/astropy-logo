@@ -34,6 +34,6 @@ rm generated/astropy_logo.png
 rm generated/astropy_logo_docs.png
 rm generated/astropy_logo_linkout.png
 rm generated/astropy_logo_word.png
+rm generated/astropy_word_32_tmp.png
 rm generated/astropy_word_32_tmp1.png
 rm generated/astropy_word_32_tmp2.png
-rm generated/astropy_logo_notext.png
