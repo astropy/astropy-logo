@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
-   width="1200"
+   width="830"
    height="220"
    id="svg2">
   <defs
@@ -143,7 +143,7 @@
            id="tspan3798"
            style="fill:#ffffff">astro</tspan><tspan
            id="tspan3796"
-           style="font-size:185px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff5000;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro">py</tspan></tspan></text>
+           style="font-size:185px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff5000;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Light">py</tspan></tspan></text>
     <path
        d="m 221.23922,233.12846 a 80.322945,68.372307 0 1 1 -160.64589,0 80.322945,68.372307 0 1 1 160.64589,0 z"
        transform="matrix(1.0651076,-0.90408718,0.89013474,1.0731629,-250.16148,-67.548145)"
