@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
-   width="1200"
-   height="220"
+   width="592"
+   height="166"
    id="svg2">
   <defs
      id="defs4">
@@ -128,22 +128,22 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(2.5547457,54.766869)"
+     transform="translate(2.5547456,0.76686859)"
      id="layer1">
     <text
-       x="227.80064"
-       y="97.573219"
+       x="-7.1747456"
+       y="119.71813"
        id="text3792"
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ayuthaya;-inkscape-font-specification:Ayuthaya"><tspan
-         x="227.80064"
-         y="97.573219"
+         x="-7.1747456"
+         y="119.71813"
          id="tspan3794"
          style="font-size:185px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Semi-Bold"><tspan
            id="tspan3798"
            style="fill:#ffffff">astro</tspan><tspan
            id="tspan3796"
-           style="font-size:185px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff5000;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro">py</tspan></tspan></text>
+           style="font-size:185px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff5000;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Light">py</tspan></tspan></text>
     <flowRoot
        transform="translate(-2.5547457,-54.766869)"
        id="flowRoot3781"

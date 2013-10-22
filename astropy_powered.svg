@@ -11,11 +11,11 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1200"
+   width="945"
    height="220"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="astropy_powered.svg"
    inkscape:export-filename="/Users/erik/src/astropy-logo/generated/astropy_powered.png"
    inkscape:export-xdpi="27"
@@ -85,7 +85,8 @@
          result="result4"
          operator="arithmetic"
          k2="0"
-         k3="0.6" />
+         k3="0.6"
+         k4="0" />
     </filter>
     <filter
        id="filter3844"
@@ -116,7 +117,8 @@
          result="result4"
          operator="arithmetic"
          k2="0"
-         k3="0.6" />
+         k3="0.6"
+         k4="0" />
     </filter>
     <linearGradient
        inkscape:collect="always"
@@ -144,10 +146,10 @@
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:snap-grids="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="1002"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1871"
+     inkscape:window-height="1176"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="5"
      fit-margin-left="5"
@@ -161,7 +163,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -181,30 +183,26 @@
          id="tspan3086"
          x="224.64838"
          y="38.43235"
-         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Semi-Bold">as<tspan
-   style="font-weight:bold"
-   id="tspan4020">t</tspan>ro<tspan
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Semi-Bold">astro<tspan
    style="font-size:100px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff5000;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Light"
-   id="tspan3088"><tspan
-   style="font-weight:normal"
-   id="tspan4024">p</tspan>y<tspan
+   id="tspan3088">py<tspan
    style="fill:#4d4d4d;fill-opacity:1"
    id="tspan4796">-powered</tspan></tspan></tspan></text>
     <text
        xml:space="preserve"
-       x="442.59058"
+       x="368.59058"
        y="132.3925"
        id="text3858"
        sodipodi:linespacing="125%"
        style="line-height:125%"><tspan
          sodipodi:role="line"
          id="tspan3860"
-         x="442.59058"
+         x="368.59058"
          y="132.3925"
          style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#4d4d4d;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro">astropy.org</tspan></text>
     <path
        sodipodi:type="arc"
-       style="fill:url(#linearGradient3798);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+       style="fill:url(#linearGradient3798);fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3837"
        sodipodi:cx="140.91628"
        sodipodi:cy="233.12846"

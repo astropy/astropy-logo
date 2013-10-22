@@ -29,3 +29,21 @@ can re-generate the Plain SVG and PNG files with:
 
 Note that this requires the the ImageMagick command ``convert`` and
 InkScape (with the command-line ``inkscape`` command) to be installed.
+
+File Descriptions
+-----------------
+
+=================================  ======================================== 
+Filename                           Description
+=================================  ========================================
+astropy_logo.svg                   icon + "astropy" + tagline
+astropy_logo_small.svg             icon + "astropy"
+astropy_logo_small_nogradient.svg  icon + "astropy" (no gradient in icon)
+astropy_logo_docs.svg              icon + "astropy:docs"
+astropy_logo_notext.svg            icon
+astropy_logo_word.svg              "astropy"
+astropy_logo_linkout.svg           "astropy" + (linkout icon)
+astropy_powered.svg                icon + "astropy-powered" + URL
+dmg_background.svg                 MacOSX Disk image installer background
+wininst_background.svg             Windows installer background
+=================================  ========================================
