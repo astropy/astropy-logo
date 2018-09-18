@@ -27,7 +27,7 @@ can re-generate the Plain SVG and PNG files with:
 
     ./convert.sh
 
-Note that this requires the the ImageMagick command ``convert`` and
+Note that this requires the ImageMagick command ``convert`` and
 InkScape (with the command-line ``inkscape`` command) to be installed.
 
 File Descriptions
